@@ -222,3 +222,5 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+notebooks/glove.6B.200d.txt
+notebooks/glove.6B.zip
